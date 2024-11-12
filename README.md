@@ -10,6 +10,8 @@
 <div align="left">
 <h2>About me</h2>
 <h2>Languages and tools</h2>
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 <h2>My state</h2>
   
