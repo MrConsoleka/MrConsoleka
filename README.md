@@ -5,7 +5,9 @@
 </div>
 <div align="left">
 <h2>About me</h2>
-
+[![MrEndermanYT link](https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/MrEnderman-YT)
+[![MrEndermanYT link](https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/MrEnderman-YT)
+[![MrEndermanYT link](https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/MrEnderman-YT)
 <h2>Languages and tools</h2>
 
 <h2>My state</h2>
