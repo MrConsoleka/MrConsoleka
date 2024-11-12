@@ -4,6 +4,9 @@
 <h3>Python Developer</h3>
 </div>
 <div align="left">
+<h2>About me</h2>
+
+<h2>Languages and tools</h2>
 
 <h2>My state</h2>
   
