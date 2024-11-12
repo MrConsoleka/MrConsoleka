@@ -8,3 +8,12 @@
 [![MrEndermanYT Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MrEnderman-YT&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+<div align="left">
+
+<h2>My state</h2>
+  
+[![MrEndermanYT Stats](https://github-readme-stats.vercel.app/api?username=MrEnderman-YT&show_icons=true&theme=merko&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![MrEndermanYT Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MrEnderman-YT&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
