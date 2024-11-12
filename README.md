@@ -30,6 +30,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" weight="50" height="50" title="Figma"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" weight="50" height="50" title="Blender"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" weight="50" height="50" title="Docker"/>
           
 <h2>My state</h2>
   
