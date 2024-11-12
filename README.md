@@ -11,7 +11,7 @@
 <h2>About me</h2>
 <h2>Languages and tools</h2>
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" weight="40" height="40"/>
 
 <h2>My state</h2>
   
