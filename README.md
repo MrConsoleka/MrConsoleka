@@ -11,8 +11,18 @@
 <h2>About me</h2>
 <h2>Languages and tools</h2>
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" weight="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" weight="50" height="50" title="Python"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" weight="50" height="50" title="Mysql"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" weight="50" height="50" title="CSS"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" weight="50" height="50" title="HTML"/>
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" weight="50" height="50" title="REACT"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" weight="50" height="50" title="JS"/>
+          
 <h2>My state</h2>
   
 [![MrEndermanYT Stats](https://github-readme-stats.vercel.app/api?username=MrEnderman-YT&show_icons=true&theme=merko&locale=en)](https://github.com/anuraghazra/github-readme-stats) [![MrEndermanYT Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MrEnderman-YT&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
