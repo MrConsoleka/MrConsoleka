@@ -33,7 +33,7 @@
 
 <img src="icon-blender.svg" weight="75" height="75" title="Blender"/>
 
-<img src="icon-vscode.svg" weight="50" height="50" title="vscode"/>
+<img src="icon-vscode.svg" weight="70" height="70" title="vscode"/>
           
 <h2>My state</h2>
   
