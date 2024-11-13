@@ -41,5 +41,5 @@ My name is Roman, and I am 14 years old. I am proud to say that I am a Python de
 
 <h2>My Projects</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrEnderman-YT&repo=Network-City-Helper&theme=gotham&show_owner=true&description_lines_count=2)](https://github.com/MrEnderman-YT/Network-City-Helper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrEnderman-YT&repo=Network-City-Helper&theme=gotham&show_owner=true&description_lines_count=3)](https://github.com/MrEnderman-YT/Network-City-Helper)
 </div>
