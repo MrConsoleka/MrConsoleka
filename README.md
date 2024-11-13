@@ -35,7 +35,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" weight="50" height="50" title="VS-code"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" weight="50" height="50" title="Pycharm"/>
+<img src="https://img.icons8.com/?size=100&id=37o3DqV429ra&format=png&color=1bff80" weight="50" height="50" title="Pycharm"/>
           
 <h2>My state</h2>
   
