@@ -3,7 +3,7 @@
 <h1>Hello there! I'm Roman</h1>
 <h3>Python Developer</h3>
 
-[![MrEndermanYT link](https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/MrEnderman-YT)
+[![MrEndermanYT link](https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MrEnderman_YT)
 [![MrEndermanYT link](https://img.shields.io/badge/DISCORD-blue?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/MrEnderman-YT)
 [![MrEndermanYT link](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/MrEnderman-YT)
 </div>
