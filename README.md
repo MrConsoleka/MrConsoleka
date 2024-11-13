@@ -19,7 +19,7 @@
 
 <img src="data/icon-html.svg" weight="70" height="70" title="HTML"/>
 
-<img src="data/css-icon.svg" weight="70" height="70" title="CSS"/>
+<img src="data/icon-css.svg" weight="70" height="70" title="CSS"/>
 
 <img src="data/icon-react.svg" weight="70" height="70" title="React"/>
  
