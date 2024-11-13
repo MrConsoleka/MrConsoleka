@@ -23,7 +23,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" weight="50" height="50" title="REACT"/>
  
-<img src="https://img.icons8.com/?size=100&id=baihjTL3IBX9&format=png&color=115333" weight="50" height="50" title="Django"/>
+<img src="https://img.icons8.com/?size=100&id=37o3DqV429ra&format=png&color=23802D" weight="50" height="50" title="Django"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" weight="50" height="50" title="Bootstrap"/>
 
