@@ -27,15 +27,13 @@
 
 <img src="icon-bootstrap.svg" weight="70" height="70" title="Bootstrap"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" weight="50" height="50" title="Figma"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" weight="50" height="50" title="Docker"/>
+
+<img src="icon-figma.svg" weight="70" height="70" title="Figma"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" weight="50" height="50" title="Blender"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" weight="50" height="50" title="Docker"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" weight="50" height="50" title="vscode"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" weight="50" height="50" title="Pycharm"/>
           
 <h2>My state</h2>
   
