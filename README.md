@@ -31,7 +31,7 @@
 
 <img src="icon-figma.svg" weight="70" height="70" title="Figma"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" weight="50" height="50" title="Blender"/>
+<img src="icon-blender.svg" weight="75" height="75" title="Blender"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" weight="50" height="50" title="vscode"/>
           
