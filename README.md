@@ -19,11 +19,11 @@
 
 <img src="https://github.com/user-attachments/assets/9a931838-9c53-4169-a183-4b272ce5980f" weight="70" height="70" title="HTML"/>
 
-<img src="https://github.com/user-attachments/assets/458fe8cb-0b64-48dd-9751-b4c5f235d1b2" weight="70" height="70" title="CSS"/>
+<img src="css-icon.svg" weight="70" height="70" title="CSS"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" weight="50" height="50" title="REACT"/>
+<img src="icons-react.svg" weight="70" height="70" title="REACT"/>
  
-<img src="https://img.icons8.com/?size=100&id=37o3DqV429ra&format=png&color=23802D" weight="50" height="50" title="Django"/>
+<img src="icon-django.svg" weight="70" height="70" title="Django"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" weight="50" height="50" title="Bootstrap"/>
 
