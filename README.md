@@ -37,9 +37,9 @@ My name is Roman, and I am 14 years old. I am proud to say that I am a Python de
           
 <h2>My state</h2>
   
-[![MrEndermanYT Stats](https://github-readme-stats.vercel.app/api?username=MrEnderman-YT&show_icons=true&theme=gotham&locale=en)](https://github.com/anuraghazra/github-readme-stats) [![MrEndermanYT Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MrEnderman-YT&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![MrEndermanYT Stats](https://github-readme-stats.vercel.app/api?username=MrEnderman-YT&show_icons=true&theme=gotham&locale=en)](https://github.com/anuraghazra/github-readme-stats) [![MrEndermanYT Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrEnderman-YT&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>My Projects</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 </div>
