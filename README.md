@@ -1,5 +1,5 @@
 <div align="center">
-<img weight="300" height="215" src="table.svg">
+<img weight="300" height="215" src="data/table.svg">
 <h1>Hello there! I'm Roman</h1>
 <h3>Python Developer</h3>
 
