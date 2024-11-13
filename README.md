@@ -33,8 +33,6 @@ My name is Roman, and I am 14 years old. I am proud to say that I am a Python de
 
 <img src="data/icon-figma.svg" weight="70" height="70" title="Figma"/>
 
-<img src="data/icon-blender.svg" weight="75" height="75" title="Blender"/>
-
 <img src="data/icon-vscode.svg" weight="75" height="75" title="VSCode"/>
           
 <h2>My state</h2>
