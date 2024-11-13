@@ -11,11 +11,13 @@
 <h2>About me</h2>
 <h2>Languages and tools</h2>
   
+![image](https://github.com/user-attachments/assets/a1857135-7d6b-499a-b3f8-39d7919dde90)
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" weight="50" height="50" title="Python"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" weight="50" height="50" title="JS"/>
 
-<img src="https://img.icons8.com/?size=100&id=QeIg9siFKGgp&format=png&color=000000" weight="50" height="50" title="Mysql"/>
+<img src="https://img.icons8.com/?size=100&id=i1glGmISmzJj&format=png&color=000000" weight="50" height="50" title="Mysql"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" weight="50" height="50" title="HTML"/>
 
