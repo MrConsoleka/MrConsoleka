@@ -21,7 +21,7 @@
 
 <img src="css-icon.svg" weight="70" height="70" title="CSS"/>
 
-<img src="icons-react.svg" weight="70" height="70" title="REACT"/>
+<img src="icon-react.svg" weight="70" height="70" title="REACT"/>
  
 <img src="icon-django.svg" weight="70" height="70" title="Django"/>
 
