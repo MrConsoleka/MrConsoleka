@@ -11,17 +11,17 @@
 <h2>About me</h2>
 <h2>Languages and tools</h2>
 
-<img src="data/" weight="70" height="70" title="Python"/>
+<img src="data/icon-python.svg" weight="70" height="70" title="Python"/>
 
-<img src="data/" weight="70" height="70" title="JS"/>
+<img src="data/icon-js.svg" weight="70" height="70" title="JavaScript"/>
 
-<img src="data/" weight="70" height="70" title="Mysql"/>
+<img src="data/icon-mysql.svg" weight="70" height="70" title="Mysql"/>
 
-<img src="data/" weight="70" height="70" title="HTML"/>
+<img src="data/icon-html.svg" weight="70" height="70" title="HTML"/>
 
 <img src="data/css-icon.svg" weight="70" height="70" title="CSS"/>
 
-<img src="data/icon-react.svg" weight="70" height="70" title="REACT"/>
+<img src="data/icon-react.svg" weight="70" height="70" title="React"/>
  
 <img src="data/icon-django.svg" weight="70" height="70" title="Django"/>
 
@@ -33,7 +33,7 @@
 
 <img src="data/icon-blender.svg" weight="75" height="75" title="Blender"/>
 
-<img src="data/icon-vscode.svg" weight="75" height="75" title="vscode"/>
+<img src="data/icon-vscode.svg" weight="75" height="75" title="VSCode"/>
           
 <h2>My state</h2>
   
