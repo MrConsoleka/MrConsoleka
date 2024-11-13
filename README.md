@@ -11,29 +11,29 @@
 <h2>About me</h2>
 <h2>Languages and tools</h2>
 
-<img src="https://img.icons8.com/?size=100&id=W3gfKnMhfM6h&format=png&color=000000" weight="70" height="70" title="Python"/>
+<img src="data/" weight="70" height="70" title="Python"/>
 
-<img src="https://github.com/user-attachments/assets/877ac7db-b62e-44bf-9899-66da832207d2" weight="70" height="70" title="JS"/>
+<img src="data/" weight="70" height="70" title="JS"/>
 
-<img src="https://github.com/user-attachments/assets/664297ba-71f3-4ef0-875e-b65c62c8acff" weight="70" height="70" title="Mysql"/>
+<img src="data/" weight="70" height="70" title="Mysql"/>
 
-<img src="https://github.com/user-attachments/assets/9a931838-9c53-4169-a183-4b272ce5980f" weight="70" height="70" title="HTML"/>
+<img src="data/" weight="70" height="70" title="HTML"/>
 
-<img src="css-icon.svg" weight="70" height="70" title="CSS"/>
+<img src="data/css-icon.svg" weight="70" height="70" title="CSS"/>
 
-<img src="icon-react.svg" weight="70" height="70" title="REACT"/>
+<img src="data/icon-react.svg" weight="70" height="70" title="REACT"/>
  
-<img src="icon-django.svg" weight="70" height="70" title="Django"/>
+<img src="data/icon-django.svg" weight="70" height="70" title="Django"/>
 
-<img src="icon-bootstrap.svg" weight="70" height="70" title="Bootstrap"/>
+<img src="data/icon-bootstrap.svg" weight="70" height="70" title="Bootstrap"/>
 
-<img src="icon-docker.svg" weight="75" height="75" title="Docker"/>
+<img src="data/icon-docker.svg" weight="75" height="75" title="Docker"/>
 
-<img src="icon-figma.svg" weight="70" height="70" title="Figma"/>
+<img src="data/icon-figma.svg" weight="70" height="70" title="Figma"/>
 
-<img src="icon-blender.svg" weight="75" height="75" title="Blender"/>
+<img src="data/icon-blender.svg" weight="75" height="75" title="Blender"/>
 
-<img src="icon-vscode.svg" weight="75" height="75" title="vscode"/>
+<img src="data/icon-vscode.svg" weight="75" height="75" title="vscode"/>
           
 <h2>My state</h2>
   
