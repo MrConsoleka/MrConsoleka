@@ -27,7 +27,7 @@
 
 <img src="icon-bootstrap.svg" weight="70" height="70" title="Bootstrap"/>
 
-<img src="icon-docker.svg" weight="70" height="70" title="Docker"/>
+<img src="icon-docker.svg" weight="80" height="80" title="Docker"/>
 
 <img src="icon-figma.svg" weight="70" height="70" title="Figma"/>
 
