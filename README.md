@@ -15,7 +15,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" weight="50" height="50" title="JS"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" weight="50" height="50" title="Mysql"/>
+<img src="https://img.icons8.com/?size=100&id=QeIg9siFKGgp&format=png&color=000000" weight="50" height="50" title="Mysql"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" weight="50" height="50" title="HTML"/>
 
