@@ -23,7 +23,7 @@
 
 <img src="icon-react.svg" weight="70" height="70" title="REACT"/>
  
-<img src="icon-django.svg" weight="70" height="70" title="Django"/>
+<img src="icon_django.svg" weight="70" height="70" title="Django"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" weight="50" height="50" title="Bootstrap"/>
 
