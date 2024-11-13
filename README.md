@@ -29,7 +29,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" weight="50" height="50" title="Docker"/>
 
-<img src="icon-figma.svg" weight="70" height="70" title="Figma"/>
+<img src="icon-fisgma.svg" weight="70" height="70" title="Figma"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" weight="50" height="50" title="Blender"/>
 
