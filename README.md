@@ -37,7 +37,7 @@ My name is Roman, and I am 14 years old. I am proud to say that I am a Python de
           
 <h2>My state</h2>
   
-[![MrEndermanYT Stats](https://github-readme-stats.vercel.app/api?username=MrEnderman-YT&show_icons=true&theme=gotham&locale=en)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrEnderman-YT)](https://github.com/MrEnderman-YT&theme=gotham&theme=gotham)
+[![MrEndermanYT Stats](https://github-readme-stats.vercel.app/api?username=MrEnderman-YT&show_icons=true&theme=gotham&locale=en)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrEnderman-YT&theme=gotham&layout=compact)](https://github.com/MrEnderman-YT)
 
 <h2>My Projects</h2>
 
