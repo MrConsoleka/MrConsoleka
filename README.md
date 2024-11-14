@@ -9,7 +9,8 @@
 [![MrEndermanYT link](https://img.shields.io/badge/DISCORD-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/839816191254331413/ )
 [![MrEndermanYT link](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/MrEnderman-YT)
 
-⠀
+ыфв
+
 </div>
 <div align="left">
 <h2>📋 About me</h2>
