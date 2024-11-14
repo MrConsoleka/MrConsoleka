@@ -1,7 +1,7 @@
 <div align="center">
 <img weight="300" height="215" src="data/table.svg">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com/demo/?weight=900&size=25&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&repeat=%D0%9B%D0%9E%D0%96%D0%AC&random=%D0%9B%D0%9E%D0%96%D0%AC&lines=%F0%9F%91%8B+Hello+there!+I'm+Roman)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&repeat=%D0%9B%D0%9E%D0%96%D0%AC&random=%D0%9B%D0%9E%D0%96%D0%AC&width=435&lines=%F0%9F%91%8B+Hello+there!+I'm+Roman)](https://git.io/typing-svg)
 
 <h3>Python Developer</h3>
 
