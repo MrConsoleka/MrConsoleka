@@ -26,31 +26,21 @@ Now I am developing bots for Telegram and Discord, as well as creating unique we
 <h3>● Languages</h3>
 
 <img src="data/icon-python.svg" weight="70" height="70" title="Python"/>
-
 <img src="data/icon-js.svg" weight="70" height="70" title="JavaScript"/>
-
 <img src="data/icon-mysql.svg" weight="70" height="70" title="Mysql"/>
-
 <img src="data/icon-html.svg" weight="70" height="70" title="HTML"/>
-
 <img src="data/icon-css.svg" weight="70" height="70" title="CSS"/>
 
-⠀
 <h3>● Frameworks/Tools</h3>
 
 <img src="data/icon-react.svg" weight="70" height="70" title="React"/>
- 
 <img src="data/icon-django.svg" weight="70" height="70" title="Django"/>
-
 <img src="data/icon-bootstrap.svg" weight="70" height="70" title="Bootstrap"/>
 
-⠀
 <h3>● Software</h3>
 
 <img src="data/icon-docker.svg" weight="75" height="75" title="Docker"/>
-
 <img src="data/icon-figma.svg" weight="70" height="70" title="Figma"/>
-
 <img src="data/icon-vscode.svg" weight="75" height="75" title="VSCode"/>
 
 ⠀
