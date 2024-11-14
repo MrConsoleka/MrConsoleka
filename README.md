@@ -1,7 +1,7 @@
 <div align="center">
 <img weight="300" height="215" src="data/table.svg">
  
-<h2 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=exo++2+bold&weight=900&size=30&pause=1000&color=2AA889&center=true&vCenter=true&repeat=false&width=435&lines=👋Hello+there!+I'm+Roman!" alt="Typing SVG" /></h2>
+<h2 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=exo++2+bold&weight=900&size=30&pause=1000&color=2AA889&center=true&vCenter=true&repeat=false&width=435&lines=👋 Hello+there!+I'm+Roman!" alt="Typing SVG" /></h2>
 
 <h3 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=exo++2+bold&weight=900&size=20&pause=0&color=2AA889&center=true&vCenter=true&repeat=false&width=300&lines=;Python+Developer!" alt="Typing SVG" /></h3>
 
