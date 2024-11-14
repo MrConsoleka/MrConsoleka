@@ -10,6 +10,11 @@
 
 </div>
 <div align="left">
+
+<div align="right">
+<img src="data/auch.gif" weight="200" height="228" title="Python"/>
+</div>
+
 <h2>📋 About me</h2>
 ⠀
  
