@@ -13,8 +13,7 @@ My name is Roman, and I am 14 years old. I am proud to say that I am a Python de
  
 <h2>📚 My Stack</h2>
 <h3>📕 Languages</h3>
-<h3>📘 Frameworks/Tools</h3>
-<h3>📗 Software</h3>
+
 <img src="data/icon-python.svg" weight="70" height="70" title="Python"/>
 
 <img src="data/icon-js.svg" weight="70" height="70" title="JavaScript"/>
@@ -25,6 +24,8 @@ My name is Roman, and I am 14 years old. I am proud to say that I am a Python de
 
 <img src="data/icon-css.svg" weight="70" height="70" title="CSS"/>
 
+<h3>📘 Frameworks/Tools</h3>
+<h3>📗 Software</h3>
 <img src="data/icon-react.svg" weight="70" height="70" title="React"/>
  
 <img src="data/icon-django.svg" weight="70" height="70" title="Django"/>
