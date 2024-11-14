@@ -11,21 +11,20 @@
 <h2>About me</h2>
 My name is Roman, and I am 14 years old. I am proud to say that I am a Python developer. My introduction to the world of programming started at the age of 11, when I felt a wave of inspiration and desire to create something new. Today I am developing bots for Telegram and Discord, as well as creating unique websites. Every project for me is not just a job, but an opportunity to express my ideas and bring them to life, making the world of technology more interesting and accessible.
  
-<details align="left">
-  <summary><h2><b>📚 My stack</b></h2></summary>
-  <h3>Languages</h3>
-  
-  <img src="data/icon-python.svg" weight="70" height="70" title="Python"/>
-  
-  <img src="data/icon-js.svg" weight="70" height="70" title="JavaScript"/>
-  
-  <img src="data/icon-mysql.svg" weight="70" height="70" title="Mysql"/>
-  
-  <img src="data/icon-html.svg" weight="70" height="70" title="HTML"/>
-  
-  <img src="data/icon-css.svg" weight="70" height="70" title="CSS"/>
+<h2><b>📚 My stack</b></h2>
+<h3>Languages</h3>
 
-  <h3>Frameworks/Tools</h3>
+<img src="data/icon-python.svg" weight="70" height="70" title="Python"/>
+
+<img src="data/icon-js.svg" weight="70" height="70" title="JavaScript"/>
+
+<img src="data/icon-mysql.svg" weight="70" height="70" title="Mysql"/>
+
+<img src="data/icon-html.svg" weight="70" height="70" title="HTML"/>
+
+<img src="data/icon-css.svg" weight="70" height="70" title="CSS"/>
+
+<h3>Frameworks/Tools</h3>
 
 <img src="data/icon-react.svg" weight="70" height="70" title="React"/>
  
@@ -40,8 +39,6 @@ My name is Roman, and I am 14 years old. I am proud to say that I am a Python de
 <img src="data/icon-figma.svg" weight="70" height="70" title="Figma"/>
 
 <img src="data/icon-vscode.svg" weight="75" height="75" title="VSCode"/>
-
-</details>
           
 <h2>My state</h2>
   
