@@ -50,3 +50,8 @@ My name is Roman, and I am 14 years old. I am proud to say that I am a Python de
 </div>
 
 <a name="unique-anchor-name"></a>
+Some text I want to provide a direct link to, but which doesn't have its own heading.
+
+(… more content…)
+
+[A link to that custom anchor](#my-custom-anchor-point)
