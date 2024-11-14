@@ -3,9 +3,9 @@
  
 <h2 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=exo++2+bold&weight=900&size=30&pause=1000&color=2AA889&center=true&vCenter=true&repeat=false&width=435&lines=👋+Hello+there!+I'm+Roman!" alt="Typing SVG" /></h2>
 
-[![MrEndermanYT link](https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=2AA889)](https://t.me/MrEnderman_YT)
-[![MrEndermanYT link](https://img.shields.io/badge/DISCORD-blue?style=for-the-badge&logo=discord&logoColor=2AA889)](https://discordapp.com/users/839816191254331413/ )
-[![MrEndermanYT link](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=2AA889)](https://github.com/MrEnderman-YT)
+[![MrEndermanYT link](https://img.shields.io/badge/TELEGRAM-2AA889?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MrEnderman_YT)
+[![MrEndermanYT link](https://img.shields.io/badge/DISCORD-2AA889?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/839816191254331413/ )
+[![MrEndermanYT link](https://img.shields.io/badge/LINKEDIN-2AA889?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/MrEnderman-YT)
 
 
 </div>
