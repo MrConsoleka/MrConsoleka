@@ -31,7 +31,7 @@ Now I am developing bots for Telegram and Discord, as well as creating unique we
 <img src="data/icon-html.svg" weight="70" height="70" title="HTML"/>
 <img src="data/icon-css.svg" weight="70" height="70" title="CSS"/>
 
-<h3>● Frameworks/Tools</h3>
+<h3>● Frameworks/Libraries</h3>
 
 <img src="data/icon-react.svg" weight="70" height="70" title="React"/>
 <img src="data/icon-django.svg" weight="70" height="70" title="Django"/>
