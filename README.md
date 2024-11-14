@@ -25,12 +25,14 @@ My name is Roman, and I am 14 years old. I am proud to say that I am a Python de
 <img src="data/icon-css.svg" weight="70" height="70" title="CSS"/>
 
 <h3>📘 Frameworks/Tools</h3>
-<h3>📗 Software</h3>
+
 <img src="data/icon-react.svg" weight="70" height="70" title="React"/>
  
 <img src="data/icon-django.svg" weight="70" height="70" title="Django"/>
 
 <img src="data/icon-bootstrap.svg" weight="70" height="70" title="Bootstrap"/>
+
+<h3>📗 Software</h3>
 
 <img src="data/icon-docker.svg" weight="75" height="75" title="Docker"/>
 
