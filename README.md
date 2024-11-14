@@ -1,7 +1,7 @@
 <div align="center">
 <img weight="300" height="215" src="data/table.svg">
  
-<h2 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=exo++2+bold&weight=900&size=30&pause=1000&color=2AA889&center=true&vCenter=true&repeat=false&width=435&lines=Hello+there!+I'm+Roman!" alt="Typing SVG" /></h2>
+<h2 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=exo++2+bold&weight=900&size=30&pause=1000&color=2AA889&center=true&vCenter=true&repeat=false&width=435&lines=Hello+there!+I'm+Roman!;Python+Developer;always+learning+new+things;3++years+of+coding+experience" alt="Typing SVG" /></h2>
 
 [![MrEndermanYT link](https://img.shields.io/badge/TELEGRAM-2AA889?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MrEnderman_YT)
 [![MrEndermanYT link](https://img.shields.io/badge/DISCORD-2AA889?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/839816191254331413/ )
@@ -19,7 +19,7 @@ My name is Roman, and I am 14 years old. I am proud to say that I am a Python de
 My introduction to the world of programming started at the age of 11, when I felt a wave of inspiration and desire to create something new. <br/>
 Now I am developing bots for Telegram and Discord, as well as creating unique websites. Every project for me is not just a job, but an opportunity to express my ideas and bring them to life, making the world of technology more interesting and accessible.
 
-> “I'm not a great programmer; I'm just a good programmer with great habits.” **Kent Beck**
+> **“I'm not a great programmer, I'm just a good programmer with great habits.” - Kent Beck**
 
 ⠀
 <h2><b>💼 My stack</b></h2>
