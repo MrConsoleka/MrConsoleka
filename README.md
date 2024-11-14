@@ -13,6 +13,7 @@
 
 <h2>📋 About me</h2>
 ⠀
+
 <img align="right" src="auch.gif" weight="200" height="228" title="Python"/>
 My name is Roman, and I am 14 years old. I am proud to say that I am a Python developer.
 My introduction to the world of programming started at the age of 11, when I felt a wave of inspiration and desire to create something new.
