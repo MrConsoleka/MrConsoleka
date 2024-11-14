@@ -11,7 +11,7 @@
 </div>
 <div align="left">
 
-<gif src="data/auch.gif" weight="200" height="228" title="Python"/>
+<img src="data/auch.gif" weight="200" height="228" title="Python"/>
 
 <h2>📋 About me</h2>
 ⠀
