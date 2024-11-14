@@ -3,7 +3,7 @@
  
 <h2 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=exo++2+bold&weight=900&size=30&pause=1000&color=2AA889&center=true&vCenter=true&repeat=false&width=435&lines=Hello+there!+I'm+Roman!" alt="Typing SVG" /></h2>
 
-<h3 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=exo++2+bold&weight=900&size=20&pause=-500&color=2AA889&center=true&vCenter=true&repeat=false&width=300&lines=+;Python+Developer!" alt="Typing SVG" /></h3>
+<h3 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=exo++2+bold&weight=900&size=20&pause=10000&color=2AA889&center=true&vCenter=true&repeat=false&width=300&lines=Python+Developer!" alt="Typing SVG" /></h3>
 
 [![MrEndermanYT link](https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MrEnderman_YT)
 [![MrEndermanYT link](https://img.shields.io/badge/DISCORD-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/839816191254331413/ )
