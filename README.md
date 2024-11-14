@@ -2,7 +2,7 @@
 <img weight="300" height="215" src="data/table.svg">
 <h1>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&repeat=%D0%9B%D0%9E%D0%96%D0%AC&random=%D0%9B%D0%9E%D0%96%D0%AC&width=435&lines=%F0%9F%91%8B+Hello+there!+I'm+Roman)](https://git.io/typing-svg)<h1/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&repeat=%D0%9B%D0%9E%D0%96%D0%AC&random=%D0%9B%D0%9E%D0%96%D0%AC&width=435&lines=%F0%9F%91%8B+Hello+there!+I'm+Roman)](https://git.io/typing-svg)<h1/>
 <h3>Python Developer</h3>
 
 [![MrEndermanYT link](https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MrEnderman_YT)
