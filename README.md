@@ -1,7 +1,7 @@
 <div align="center">
 <img weight="300" height="215" src="data/table.svg">
  
-<h2 href="https://github.com/MrEnderman-YT"><img src="https://readme-typing-svg.demolab.com?font=Fira%2BCode&weight=900&size=80&pause=1000&color=2AA889&center=true&width=1200&height=60&lines=Hello+there!+I'm+Roman!;Python+Developer!;Always+lerning++new+things!;%2B3+years+of+coding+experience!;From+github+import+MrEnderman" alt="Typing SVG" /></h2>
+<h2 href="https://github.com/MrEnderman-YT"><img src="https://readme-typing-svg.demolab.com?font=Fira%2BCode&weight=900&height=400&size=80&pause=1000&color=2AA889&center=true&width=1200&height=60&lines=Hello+there!+I'm+Roman!;Python+Developer!;Always+lerning++new+things!;%2B3+years+of+coding+experience!;From+github+import+MrEnderman" alt="Typing SVG" /></h2>
 
 [![MrEndermanYT link](https://img.shields.io/badge/TELEGRAM-2AA889?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MrEnderman_YT)
 [![MrEndermanYT link](https://img.shields.io/badge/DISCORD-2AA889?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/839816191254331413/ )
