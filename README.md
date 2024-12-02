@@ -1,11 +1,11 @@
 <div align="center">
 <img weight="300" height="215" src="data/table.svg">
  
-<h2 href="https://github.com/MrEnderman-YT"><img src="https://readme-typing-svg.demolab.com?font=Fira%2BCode&weight=900&size=30&pause=1000&color=2AA889&center=true&width=540&height=60&lines=Hello+there!+I'm+Roman!;Python+Developer!;Always+lerning++new+things!;%2B3+years+of+coding+experience!;From+github+import+MrConsole" alt="Typing SVG" /></h2>
+<h2 href="https://github.com/MrConsoleka"><img src="https://readme-typing-svg.demolab.com?font=Fira%2BCode&weight=900&size=30&pause=1000&color=2AA889&center=true&width=540&height=60&lines=Hello+there!+I'm+Roman!;Python+Developer!;Always+lerning++new+things!;%2B3+years+of+coding+experience!;From+github+import+MrConsole" alt="Typing SVG" /></h2>
 
-[![MrEndermanYT link](https://img.shields.io/badge/TELEGRAM-2AA889?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/consoleka)
+[![MrEndermanYT link](https://img.shields.io/badge/TELEGRAM-2AA889?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MrConsoleka)
 [![MrEndermanYT link](https://img.shields.io/badge/DISCORD-2AA889?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/839816191254331413/ )
-[![MrEndermanYT link](https://img.shields.io/badge/LINKEDIN-2AA889?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/consoleka)
+[![MrEndermanYT link](https://img.shields.io/badge/LINKEDIN-2AA889?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/MrConsoleka)
 
 
 </div>
@@ -46,10 +46,10 @@ Now I am developing bots for Telegram and Discord, as well as creating unique we
 ⠀
 <h2>⭐ My state</h2>
   
-[![MrEndermanYT Stats](https://github-readme-stats.vercel.app/api?username=consoleka&show_icons=true&theme=gotham&locale=en)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=consoleka&layout=compact&theme=gotham)](https://github.com/consoleka)
+[![MrEndermanYT Stats](https://github-readme-stats.vercel.app/api?username=MrConsoleka&show_icons=true&theme=gotham&locale=en)](https://github.com/MrConsoleka) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=consoleka&layout=compact&theme=gotham)](https://github.com/MrConsoleka)
 
 ⠀
 <h2>📌 Pinned</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=consoleka&repo=Network-City-Helper&theme=gotham&show_owner=true&description_lines_count=3)](https://github.com/consoleka/Network-City-Helper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrConsoleka&repo=Network-City-Helper&theme=gotham&show_owner=true&description_lines_count=3)](https://github.com/MrConsoleka/Network-City-Helper)
 </div>
