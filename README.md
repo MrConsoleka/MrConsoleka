@@ -5,7 +5,7 @@
 
 [![MrEndermanYT link](https://img.shields.io/badge/TELEGRAM-8B00FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MrConsoleka)
 [![MrEndermanYT link](https://img.shields.io/badge/DISCORD-8B00FF?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/839816191254331413/ )
-[![MrEndermanYT link](https://img.shields.io/badge/LINKEDIN-8B00FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/MrConsoleka)
+[![MrEndermanYT link](https://img.shields.io/badge/LINKEDIN-8B00FF?style=for-the-badge&logo=imessage&logoColor=white)](https://github.com/MrConsoleka)
 
 </div>
 <div align="left">
