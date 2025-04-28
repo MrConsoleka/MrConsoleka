@@ -46,10 +46,14 @@ Now I am developing bots for Telegram and Discord, as well as creating unique we
 ⠀
 <h2>⭐ My state</h2>
   
-[![MrEndermanYT Stats](https://github-readme-stats.vercel.app/api?username=MrConsoleka&show_icons=true&theme=gotham&locale=en)](https://github.com/MrConsoleka) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=consoleka&layout=compact&theme=gotham)](https://github.com/MrConsoleka)
+[![MrEndermanYT Stats](https://github-readme-stats.vercel.app/api?username=MrConsoleka&show_icons=true&theme=midnight-purple&locale=en)](https://github.com/MrConsoleka) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrconsoleka&layout=compact&theme=midnight-purple)](https://github.com/MrConsoleka)
 
 ⠀
 <h2>📌 Pinned</h2>
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrConsoleka&repo=aiogram-bot-template&theme=midnight-purple&show_owner=true&description_lines_count=3)](https://github.com/MrConsoleka/aiogram-bot-template)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrConsoleka&repo=Network-City-Helper&theme=gotham&show_owner=true&description_lines_count=3)](https://github.com/MrConsoleka/Network-City-Helper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrConsoleka&repo=Network-City-Helper&theme=midnight-purple&show_owner=true&description_lines_count=3)](https://github.com/MrConsoleka/Network-City-Helper)
+
+  
 </div>
