@@ -1,5 +1,6 @@
 <div align="center">
-<img weight="450" height="323" src="https://github.com/user-attachments/assets/65399075-58f5-43a1-8e15-5455e59c214c">
+ 
+[<img weight="450" height="323" src="https://github.com/user-attachments/assets/65399075-58f5-43a1-8e15-5455e59c214c">](https://github.com/MrConsoleka)
  
 <h2 href="https://github.com/MrConsoleka"><img src="https://readme-typing-svg.demolab.com?font=Fira%2BCode&weight=900&size=30&pause=1000&color=8B00FF&center=true&width=540&height=60&lines=Hello+there!+I'm+Roman!;Python+Developer!;Always+lerning++new+things!;%2B3+years+of+coding+experience!;From+github+import+MrConsole" alt="Typing SVG" /></h2>
 
@@ -13,7 +14,7 @@
 <h2>📋 About me</h2>
 ⠀
 
-<a><img align="right" src="auch.gif" weight="120" height="136" title="Python"/></a>
+[<a><img align="right" src="auch.gif" weight="120" height="136" title="Python"/></a>](https://github.com/MrConsoleka)
 My name is Roman, and I am 14 years old. I am proud to say that I am a Python developer.
 My introduction to the world of programming started at the age of 11, when I felt a wave of inspiration and desire to create something new. <br/>
 Now I am developing bots for Telegram and Discord, as well as creating unique websites. Every project for me is not just a job, but an opportunity to express my ideas and bring them to life, making the world of technology more interesting and accessible.
@@ -24,33 +25,33 @@ Now I am developing bots for Telegram and Discord, as well as creating unique we
 <h2><b>💼 My stack</b></h2>
 <h3>● Languages</h3>
 
-<img src="data/icon-python.svg" weight="70" height="70" title="Python"/>
-<img src="data/icon-js.svg" weight="70" height="70" title="JavaScript"/>
-<img src="data/icon-mysql.svg" weight="70" height="70" title="Mysql"/>
-<img src="data/icon-html.svg" weight="70" height="70" title="HTML"/>
-<img src="data/icon-css.svg" weight="70" height="70" title="CSS"/>
+[<img src="data/icon-python.svg" weight="70" height="70" title="Python"/>](https://github.com/MrConsoleka)
+[<img src="data/icon-js.svg" weight="70" height="70" title="JavaScript"/>](https://github.com/MrConsoleka)
+[<img src="data/icon-mysql.svg" weight="70" height="70" title="Mysql"/>](https://github.com/MrConsoleka)
+[<img src="data/icon-html.svg" weight="70" height="70" title="HTML"/>](https://github.com/MrConsoleka)
+[<img src="data/icon-css.svg" weight="70" height="70" title="CSS"/>](https://github.com/MrConsoleka)
 
 <h3>● Frameworks/Libraries</h3>
 
-<img src="data/icon-react.svg" weight="70" height="70" title="React"/>
-<img src="data/icon-django.svg" weight="70" height="70" title="Django"/>
-<img src="data/icon-bootstrap.svg" weight="70" height="70" title="Bootstrap"/>
+[<img src="data/icon-react.svg" weight="70" height="70" title="React"/>](https://github.com/MrConsoleka)
+[<img src="data/icon-django.svg" weight="70" height="70" title="Django"/>](https://github.com/MrConsoleka)
+[<img src="data/icon-bootstrap.svg" weight="70" height="70" title="Bootstrap"/>](https://github.com/MrConsoleka)
 
 <h3>● Software</h3>
 
-<img src="data/icon-docker.svg" weight="75" height="75" title="Docker"/>
-<img src="data/icon-figma.svg" weight="70" height="70" title="Figma"/>
-<img src="data/icon-vscode.svg" weight="75" height="75" title="VSCode"/>
+[<img src="data/icon-docker.svg" weight="75" height="75" title="Docker"/>](https://github.com/MrConsoleka)
+[<img src="data/icon-figma.svg" weight="70" height="70" title="Figma"/>](https://github.com/MrConsoleka)
+[<img src="data/icon-vscode.svg" weight="75" height="75" title="VSCode"/>](https://github.com/MrConsoleka)
 
 ⠀
 <h2>⭐ My state</h2>
   
-[![MrEndermanYT Stats](https://github-readme-stats.vercel.app/api?username=MrConsoleka&show_icons=true&theme=midnight-purple&locale=en)](https://github.com/MrConsoleka) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrconsoleka&layout=compact&theme=midnight-purple)](https://github.com/MrConsoleka)
+[![MrConsole Stats](https://github-readme-stats.vercel.app/api?username=MrConsoleka&show_icons=true&theme=midnight-purple&locale=en)](https://github.com/MrConsoleka) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrconsoleka&layout=compact&theme=midnight-purple)](https://github.com/MrConsoleka)
 
 ⠀
 <h2>📌 Pinned</h2>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrConsoleka&repo=aiogram-bot-template&theme=midnight-purple&show_owner=true&description_lines_count=3)](https://github.com/MrConsoleka/aiogram-bot-template) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrConsoleka&repo=Network-City-Helper&theme=midnight-purple&show_owner=true&description_lines_count=3)](https://github.com/MrConsoleka/Network-City-Helper)
+[![MrConsole Pinned Rep](https://github-readme-stats.vercel.app/api/pin/?username=MrConsoleka&repo=aiogram-bot-template&theme=midnight-purple&show_owner=true&description_lines_count=3)](https://github.com/MrConsoleka/aiogram-bot-template) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrConsoleka&repo=Network-City-Helper&theme=midnight-purple&show_owner=true&description_lines_count=3)](https://github.com/MrConsoleka/Network-City-Helper)
 
   
 </div>
