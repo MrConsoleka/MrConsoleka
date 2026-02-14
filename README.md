@@ -54,7 +54,7 @@ Now I am developing bots for Telegram and Discord, as well as creating unique we
 ⠀
 <h2>⭐ My state</h2>
   
-[![MrConsole Stats](https://github-readme-stats-fast.vercel.app/api?username=MrConsoleka&show_icons=true&theme=midnight-purple&locale=en)](https://github.com/MrConsoleka) [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mrconsoleka&layout=compact&theme=midnight-purples)](https://github.com/MrConsoleka)
+[![MrConsole Stats](https://github-readme-stats-fast.vercel.app/api?username=MrConsoleka&show_icons=true&theme=midnight-purples&locale=en)](https://github.com/MrConsoleka) [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mrconsoleka&layout=compact&theme=midnight-purple)](https://github.com/MrConsoleka)
 
 ⠀
 <h2>📌 Pinned</h2>
