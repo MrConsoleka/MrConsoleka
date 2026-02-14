@@ -59,7 +59,7 @@ Now I am developing bots for Telegram and Discord, as well as creating unique we
 ⠀
 <h2>📌 Pinned</h2>
   
-[![MrConsole Pinned Rep](https://github-readme-stats-fast.vercel.app/api/pin/?username=MrConsoleka&repo=aiogram-bot-template&theme=midnight-purple&show_owner=true&description_lines_count=3)](https://github.com/MrConsoleka/aiogram-bot-template) [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=MrConsoleka&repo=aiogram-miniapp-template&theme=midnight-purple&show_owner=true&description_lines_count=3)](https://github.com/MrConsoleka/aiogram-miniapp-template)
+[![MrConsole Pinned Rep](https://github-readme-stats-fast.vercel.app/api/pin/?username=MrConsoleka&repo=aiogram-bot-template&theme=midnight-purple&show_owner=true&description_lines_count=3)](https://github.com/MrConsoleka/aiogram-bot-template) [![MrConsole Pinned Rep](https://github-readme-stats-fast.vercel.app/api/pin/?username=MrConsoleka&repo=aiogram-miniapp-template&theme=midnight-purple&show_owner=true&description_lines_count=3)](https://github.com/MrConsoleka/aiogram-miniapp-template) [![MrConsole Pinned Rep](https://github-readme-stats-fast.vercel.app/api/pin/?username=MrConsoleka&repo=cloudpayments_sdk&theme=midnight-purple&show_owner=true&description_lines_count=3)](https://github.com/MrConsoleka/cloudpayments_sdk)
 
   
 </div>
